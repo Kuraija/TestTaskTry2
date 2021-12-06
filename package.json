@@ -1,0 +1,14 @@
+{
+  "name": "md",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Task1and2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^9.1.3"
+  }
+}

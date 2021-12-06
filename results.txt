@@ -1,0 +1,2 @@
+biggerNumber between 444 and 6 is 444
+Amount of squares in 1 x 1 grid is 1
